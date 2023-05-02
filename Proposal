@@ -1,41 +1,13 @@
+Proposal: Predicting Solar Flares using Machine Learning Techniques
 
-Title: Predicting Solar Flares using Machine Learning Techniques
+Julian Schrenk 	1602451
+Henning Krüger	1616169
+Cenk Orhan 		1615157
 
-Abstract:
-Solar flares are sudden bursts of energy that occur on the surface of the Sun, resulting in the release of high-energy particles and electromagnetic radiation. Solar flares can cause disruptions in communication and navigation systems on Earth, as well as pose a risk to astronauts in space. Therefore, predicting the occurrence and intensity of solar flares is an important problem in space weather forecasting. In this project, we propose to use machine learning techniques to analyze the Solar Flare Data Set and develop a model that can predict the occurrence and intensity of solar flares.
+Abstract: Solar flares are sudden bursts of energy that occur on the sun’s surface, resulting in the release of high-energy particles and electromagnetic radiation. 
+Solar flares can be seen as a big threat to humanity. They can cause disruptions in communication and navigation systems on Earth, as well as pose a risk to astronauts in space.
+Therefore, predicting the occurrence and intensity of solar flares is an important problem in space weather forecasting. 
+In this project, we are trying to use machine learning techniques to analyze the Solar Flare Data Set by Gary Bradshaw and develop a model that can predict the occurrence and intensity of solar flares.
 
-Objectives:
-The main objective of this project is to develop a machine learning model that can accurately predict the occurrence and intensity of solar flares based on historical data. Specifically, we aim to:
 
-    Preprocess the Solar Flare Data Set by cleaning and transforming the data to make it suitable for machine learning.
 
-    Select an appropriate machine learning algorithm and train it using the historical data from the Solar Flare Data Set.
-
-    Evaluate the performance of the machine learning model and compare it to existing models and methods for predicting solar flares.
-
-    Use the trained model to predict the occurrence and intensity of future solar flares, and analyze the results to gain insights into the underlying patterns and dynamics of solar activity.
-
-Methodology:
-To achieve the objectives of this project, we will follow the following methodology:
-
-    Data Preprocessing: We will preprocess the Solar Flare Data Set by cleaning the data, filling in missing values, and transforming the data into a suitable format for machine learning. This will involve using techniques such as data imputation, feature scaling, and one-hot encoding.
-
-    Model Selection: We will select an appropriate machine learning algorithm for the task of predicting solar flares. This may involve using classification algorithms such as logistic regression, decision trees, or support vector machines, or regression algorithms such as linear regression or random forests.
-
-    Model Training: We will train the selected machine learning algorithm using the historical data from the Solar Flare Data Set. This will involve splitting the data into training and test sets, feeding the training data into the algorithm, and using techniques such as cross-validation to fine-tune the model.
-
-    Model Evaluation: We will evaluate the performance of the trained machine learning model using the test data from the Solar Flare Data Set. This will involve measuring metrics such as accuracy, precision, recall, and F1 score, and comparing the results to existing models and methods for predicting solar flares.
-
-    Model Deployment: We will use the trained machine learning model to predict the occurrence and intensity of future solar flares, and analyze the results to gain insights into the underlying patterns and dynamics of solar activity.
-
-Expected Outcomes:
-We expect the following outcomes from this project:
-
-    A machine learning model that can accurately predict the occurrence and intensity of solar flares based on historical data from the Solar Flare Data Set.
-
-    Insights into the underlying patterns and dynamics of solar activity, which can inform future space weather forecasting and mitigation efforts.
-
-    A better understanding of the capabilities and limitations of machine learning techniques for predicting solar flares, which can guide future research in this area.
-
-Conclusion:
-In conclusion, this project aims to use machine learning techniques to analyze the Solar Flare Data Set and develop a model that can accurately predict the occurrence and intensity of solar flares. By achieving this objective, we hope to contribute to the field of space weather forecasting and advance our understanding of the Sun-Earth system.
